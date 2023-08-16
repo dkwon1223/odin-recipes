@@ -1,1 +1,2 @@
 # odin-recipes
+This project conducted through Odin Project curriculum utilizes HTML to create a very basic webpage that shares recipes. I will be practicing skills like building HTML boilerplate, creating HTML elements, and using various HTML tags to create links. S
