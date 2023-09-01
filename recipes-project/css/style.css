@@ -1,0 +1,46 @@
+body {
+    width: 100vw;
+    height: 110vh;
+    background-image: url('../images/recipe-background.jpg');
+    background-size: cover;
+}
+
+.first {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: ghostwhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.flex-container {
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+   
+.flex-container div {
+    height: 300px;
+    flex: 1 1 0;
+    flex-wrap: wrap;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#taiwanese-beef-noodle-soup {
+    background-image: url('../images/beef-noodle-soup.gif');
+    background-size: cover;
+}
+
+#beef-bourguignon {
+    background-image: url('../images/beef-bourguignon.gif');
+    background-size: cover;
+}
+
+#eggs-benedict {
+    background-image: url('../images/eggs-benedict.gif');
+    background-size: cover;
+}
+  
